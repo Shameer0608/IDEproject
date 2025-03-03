@@ -9,7 +9,7 @@ public class Test {
 	}
 	
 	public static void bye() {
-		System.out.println("this is byeBranch");
+		System.out.println("this is the byeBranch");
 	}
 
 }
