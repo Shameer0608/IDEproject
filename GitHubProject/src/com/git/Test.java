@@ -5,9 +5,11 @@ public class Test {
 	public static void main(String[] args) {
 		
 		System.out.println("This is MAster");
-		
-		System.out.println("this is hiBranch");
 
+	}
+	
+	public static void bye() {
+		System.out.println("this is byeBranch");
 	}
 
 }
